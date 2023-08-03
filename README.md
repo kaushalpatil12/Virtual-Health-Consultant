@@ -1,3 +1,3 @@
 # Healthify
 
-### Deployed on Streamlit Cloud [here](https://kupatil-virtual-health-consultant--home-fa2kiu.streamlit.app/)
+### Deployed on Streamlit Cloud [here](https://virtual-health-consultants.streamlit.app/)
